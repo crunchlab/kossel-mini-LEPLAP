@@ -1,0 +1,21 @@
+## Machine settings ##
+E-Steps per 1mm filament: 0
+Maximum width (mm): 190.0
+Maximum depth (mm): 190.0
+Maximum height (mm): 270.0
+Extruder count: 1
+Heated bed: NO
+Machine center 0,0: YES
+Build area shape: Circular
+GCode Flavor: RepRap (Marlin/Sprinter)
+
+## Printer head size ##
+Head size towards X min (mm): 60.0
+Head size towards Y min (mm): 50.0
+Head size towards X max (mm): 50.0
+Head size towards Y max (mm): 40.0
+Printer gantry height (mm): 28.5
+
+## Communication settings ##
+Serial port: AUTO
+Baudrate: AUTO
